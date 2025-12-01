@@ -1,4 +1,4 @@
-# **App Name**: Code Canvas
+# **App Name**: Subhojit Dutta
 
 ## Core Features:
 
