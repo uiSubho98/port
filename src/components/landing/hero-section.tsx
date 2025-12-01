@@ -44,7 +44,7 @@ export default function HeroSection() {
         </div>
         <div className="flex justify-center animate-fade-in-up" style={{animationDelay: "0.4s"}}>
           <Avatar className="w-64 h-64 md:w-80 md:h-80 border-4 border-primary/50 glow-shadow">
-            <AvatarImage src="https://picsum.photos/seed/avatar/400/400" alt="Profile picture" data-ai-hint="professional portrait" />
+            <AvatarImage src="https://i.ibb.co/xKS5PvSV/1672998893608.jpg" alt="Profile picture" data-ai-hint="professional portrait" />
             <AvatarFallback>CC</AvatarFallback>
           </Avatar>
         </div>

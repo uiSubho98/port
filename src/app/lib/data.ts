@@ -11,12 +11,12 @@ function getImage(id: string): ImagePlaceholder {
 
 export const PROJECTS = [
   {
-    title: "Project Alpha",
+    title: "Rudraganga Talk To Customer",
     description: "A full-stack social media application with real-time updates and a modern, responsive user interface. Built with the MERN stack and Socket.io.",
-    technologies: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "Tailwind CSS"],
+    technologies: ["Flutter", "Node.js", "Express", "MongoDB", "Socket.io", "Agora", "AWS"],
     image: getImage("project-1"),
     githubUrl: "https://github.com",
-    liveUrl: "#",
+    liveUrl: "https://play.google.com/store/apps/details?id=com.rudraganga.customer&hl=en_IN",
   },
   {
     title: "Project Beta",
